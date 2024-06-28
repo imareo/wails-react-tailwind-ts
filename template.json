@@ -1,0 +1,7 @@
+{
+  "name": "Wails, React, TailwindCSS and TS",
+  "shortname": "wails-react-tailwind-ts",
+  "author": "Oleg Arefyev",
+  "description": "Wails template, contain Vite, React, TailwindCSS and TypeScript.",
+  "helpurl": "https://github.com/imareo/wails-react-tailwind-ts"
+}
